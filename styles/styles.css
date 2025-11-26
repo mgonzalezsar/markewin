@@ -1,7 +1,7 @@
 :root {
     --color-bg-dark: #e0e0e0;
     --color-primary: #000000;       /* dorado */
-    --color-primary-hover: #D4AF37; /* gris claro para hover */
+    --color-primary-hover: #C6A667; /* gris claro para hover */
 }
 
 /* Fondo oscuro y texto claro para que se vea */
@@ -54,7 +54,7 @@ body {
     box-shadow: 0 0 0 0.25rem rgba(212, 175, 55, 0.4);
 }
 
-.btn-custom-primary {c
+.btn-custom-primary {
     color: var(--color-primary)
 
 }
